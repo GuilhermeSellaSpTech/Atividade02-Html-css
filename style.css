@@ -1,0 +1,31 @@
+.div-a {
+    background-color: #00aaff;
+    width: 500px;
+    height: 500px;
+}
+
+.div-b {
+    background-color: #ff00d0;
+    width: 50%;
+    height: 50%;
+}
+
+.paragrafo {
+    color: white;
+    background-color: rgb(0, 255, 38);
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.div-d {
+    background-color: rgb(0, 191, 255);
+    width: 50%;
+    height: 50vh;
+}
+
+.div-e {
+    background-color: rgb(255, 153, 0);
+    width: 75vw;
+    height: 50%;
+}
